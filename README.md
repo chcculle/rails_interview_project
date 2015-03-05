@@ -10,7 +10,7 @@ Plan to spend 1-2 hours on this project. Please send your project to interview-p
 Requirements
 ============
 
-Your app will provide 2 pages:
+App will provide:
 
 * The *Driver* page allows drivers to enter a range of time in which they’d like to park.  The page then indicates whether parking is available, and if so, shows the price and allows them to book the time period. 
 
