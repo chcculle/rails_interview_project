@@ -5,7 +5,7 @@ The last thing ParkWhiz wants to do is sell a parking spot that doesn't exist, s
 
 The technical portion of the interview will anchor on a small scheduling site you will create beforehand.  This project will be the focal point of a Q&A session, and the foundation for a group project you will work on with part of the development team. 
 
-Plan to spend 1-2 hours on this project. Please send your project to interview-project@parkwhiz.com prior to your interview.
+Plan to spend 1-2 hours on this project. Please make commits as you do changes, then zip and send your project to interview-project@parkwhiz.com prior to your interview.
 
 Requirements
 ============
